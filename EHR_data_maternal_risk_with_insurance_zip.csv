@@ -1,0 +1,1015 @@
+PID,Visit_Date,Age,SystolicBP,DiastolicBP,BS,BodyTemp,HeartRate,RiskLevel,Medications,insurance_type,Zip_code
+P000001,9/1/24,25,130,80,15,98,86,2,Folic Acid,Self-Insured,60606
+P000002,8/23/23,35,140,90,13,98,70,2,Iron Supplements,Private,60626
+P000003,3/11/24,29,90,70,8,100,80,2,Nifedipine,Self-Insured,60604
+P000004,2/16/25,30,140,85,7,98,70,2,Progesterone,None,60616
+P000005,8/11/23,35,120,60,6.1,98,76,0,Iron Supplements,Governmental,60641
+P000006,9/6/22,23,140,80,7.01,98,70,2,Nifedipine,Medicare,60613
+P000007,5/15/25,23,130,70,7.01,98,78,1,Heparin,Governmental,60653
+P000008,11/24/24,35,85,60,11,102,86,2,Nifedipine,None,60651
+P000009,7/8/24,32,120,90,6.9,98,70,1,Aspirin (low dose),Governmental,60621
+P000010,4/6/24,42,130,80,18,98,70,2,No Medication,Self-Insured,60604
+P000011,11/19/22,23,90,60,7.01,98,76,0,Aspirin (low dose),Governmental,60628
+P000012,11/16/23,19,120,80,7,98,70,1,Heparin,Medicare,60615
+P000013,6/9/22,25,110,89,7.01,98,77,0,Calcium,Governmental,60632
+P000014,4/2/25,20,120,75,7.01,100,70,1,Labetalol,None,60612
+P000015,6/27/24,48,120,80,11,98,88,1,Heparin,None,60606
+P000016,3/26/23,15,120,80,7.01,98,70,0,Prenatal Vitamins,Self-Insured,60605
+P000017,3/30/23,50,140,90,15,98,90,2,Levothyroxine,Governmental,60646
+P000018,10/19/23,25,140,100,7.01,98,80,2,Calcium,Medicare,60644
+P000019,9/5/23,30,120,80,6.9,101,76,1,Levothyroxine,Self-Insured,60602
+P000020,6/25/22,10,70,50,6.9,98,70,0,Progesterone,Governmental,60652
+P000021,7/5/22,40,140,100,18,98,90,2,Prenatal Vitamins,Governmental,60656
+P000022,3/23/23,50,140,80,6.7,98,70,1,Calcium,Medicaid,60618
+P000023,11/6/24,21,90,65,7.5,98,76,0,Labetalol,Medicare,60632
+P000024,8/5/22,18,90,60,7.5,98,70,0,Labetalol,Medicaid,60629
+P000025,11/4/22,21,120,80,7.5,98,76,0,Aspirin (low dose),Medicaid,60613
+P000026,7/23/22,16,100,70,7.2,98,80,0,Methyldopa,None,60615
+P000027,8/9/22,19,120,75,7.2,98,66,0,Insulin,Medicaid,60652
+P000028,4/9/25,22,100,65,7.2,98,70,0,Calcium,Self-Insured,60608
+P000029,8/8/24,49,120,90,7.2,98,77,0,Levothyroxine,Self-Insured,60618
+P000030,3/3/24,28,90,60,7.2,98,82,0,Aspirin (low dose),Governmental,60654
+P000031,6/26/24,20,100,90,7.1,98,88,0,Metformin,Medicaid,60603
+P000032,11/15/23,23,100,85,7.1,98,66,0,Magnesium Sulfate,Self-Insured,60645
+P000033,7/14/22,22,120,90,7.1,98,82,0,No Medication,None,60640
+P000034,9/26/22,21,120,80,7.1,98,77,0,Levothyroxine,Medicare,60660
+P000035,6/14/24,21,75,50,6.1,98,70,0,Magnesium Sulfate,Self-Insured,60653
+P000036,11/2/22,12,95,60,6.1,102,60,0,Labetalol,Medicaid,60653
+P000037,2/26/24,60,120,80,6.1,98,75,0,Labetalol,Governmental,60626
+P000038,4/14/25,55,100,65,6.1,98,66,0,Magnesium Sulfate,Self-Insured,60655
+P000039,11/17/22,45,120,95,6.1,98,66,0,Insulin,None,60633
+P000040,1/15/24,35,100,70,6.1,98,66,0,Heparin,Medicare,60625
+P000041,1/19/25,22,120,85,6.1,98,88,0,Aspirin (low dose),None,60660
+P000042,9/4/23,23,120,90,6.1,98,60,0,Aspirin (low dose),Medicare,60628
+P000043,12/11/23,25,90,70,6.1,98,80,0,Folic Acid,Self-Insured,60619
+P000044,12/5/22,30,120,80,6.1,98,70,0,Prenatal Vitamins,Private,60640
+P000045,12/5/22,23,120,90,6.1,98,70,0,Prenatal Vitamins,Self-Insured,60641
+P000046,4/27/24,32,120,90,7.5,98,70,0,No Medication,Governmental,60655
+P000047,11/10/24,42,120,80,7.5,98,70,0,Progesterone,Private,60613
+P000048,11/15/22,23,90,60,7.5,98,76,0,Progesterone,Private,60641
+P000049,10/28/22,15,76,49,7.5,98,77,0,Methyldopa,Private,60629
+P000050,6/7/23,15,120,80,7,98,70,0,Progesterone,Medicaid,60634
+P000051,8/2/23,25,120,80,7,98,66,0,Folic Acid,Governmental,60608
+P000052,12/22/24,22,100,65,7,98,80,0,Aspirin (low dose),Medicare,60606
+P000053,6/16/23,35,100,70,7,98,60,0,Metformin,Governmental,60601
+P000054,12/4/24,19,120,85,7,98,60,0,No Medication,Governmental,60626
+P000055,12/21/22,60,90,65,7,98,77,0,Heparin,None,60609
+P000056,3/26/25,23,120,90,6.7,98,70,0,Heparin,None,60616
+P000057,10/14/24,32,120,90,6.4,98,70,0,Prenatal Vitamins,None,60602
+P000058,8/3/23,42,120,80,6.4,98,70,0,Insulin,Medicaid,60621
+P000059,7/14/23,23,90,60,6.4,98,76,0,Calcium,Private,60659
+P000060,10/19/22,15,76,49,6.4,98,77,0,Nifedipine,Medicare,60624
+P000061,10/10/24,15,120,80,7.2,98,70,0,Magnesium Sulfate,Governmental,60641
+P000062,4/13/24,15,80,60,7,98,80,0,Metformin,Private,60611
+P000063,4/8/23,12,95,60,7.2,98,77,0,No Medication,Medicare,60629
+P000064,8/19/22,29,90,70,6.7,98,80,1,Folic Acid,Medicaid,60640
+P000065,3/27/24,31,120,60,6.1,98,76,1,Insulin,Governmental,60633
+P000066,2/17/23,29,130,70,6.7,98,78,1,Magnesium Sulfate,Self-Insured,60603
+P000067,3/28/25,17,85,60,9,102,86,1,Nifedipine,Governmental,60646
+P000068,7/27/24,19,120,80,7,98,70,1,Calcium,Governmental,60633
+P000069,2/17/25,20,110,60,7,100,70,1,Labetalol,Medicaid,60655
+P000070,4/9/24,32,120,65,6,101,76,1,Metformin,None,60619
+P000071,10/15/23,26,85,60,6,101,86,1,Progesterone,Private,60626
+P000072,7/31/24,29,130,70,7.7,98,78,1,Levothyroxine,Medicaid,60624
+P000073,5/30/24,19,120,80,7,98,70,1,Progesterone,Private,60634
+P000074,4/4/24,54,130,70,12,98,67,1,Metformin,Medicaid,60661
+P000075,8/10/22,44,120,90,16,98,80,1,Levothyroxine,Medicare,60602
+P000076,5/14/25,23,130,70,6.9,98,70,1,Levothyroxine,Self-Insured,60632
+P000077,2/28/24,22,85,60,6.9,98,76,1,Methyldopa,Private,60610
+P000078,10/31/23,55,120,90,12,98,70,1,Levothyroxine,Self-Insured,60657
+P000079,9/20/24,35,120,80,6.9,98,78,1,Folic Acid,None,60649
+P000080,8/25/23,21,90,60,6.9,98,86,1,Iron Supplements,Medicaid,60621
+P000081,5/30/24,16,90,65,6.9,98,76,1,Insulin,Private,60632
+P000082,10/8/24,33,115,65,7,98,70,1,Calcium,None,60651
+P000083,8/24/24,12,95,60,6.9,98,65,1,Calcium,Medicare,60630
+P000084,6/17/23,28,120,90,6.9,98,70,1,Prenatal Vitamins,Medicare,60644
+P000085,8/12/22,21,90,65,6.9,98,76,1,Calcium,Private,60604
+P000086,12/28/22,18,90,60,6.9,98,70,1,Progesterone,None,60642
+P000087,9/24/23,21,120,80,6.9,98,76,1,Levothyroxine,Governmental,60618
+P000088,6/20/23,16,100,70,6.9,98,80,1,Levothyroxine,Medicare,60619
+P000089,9/15/23,19,120,75,6.9,98,66,1,Heparin,Governmental,60654
+P000090,2/11/24,23,100,85,6.9,98,66,1,Magnesium Sulfate,Medicaid,60625
+P000091,1/4/23,22,120,90,7.8,98,82,1,No Medication,Medicare,60653
+P000092,1/10/25,60,120,85,15,98,60,1,Levothyroxine,Governmental,60649
+P000093,12/11/23,13,90,65,7.8,101,80,1,Heparin,Medicare,60661
+P000094,1/1/25,23,120,90,7.8,98,60,1,Magnesium Sulfate,None,60605
+P000095,4/18/25,28,115,60,7.8,101,86,1,Insulin,Private,60624
+P000096,3/22/25,50,120,80,7.8,98,70,1,Progesterone,Medicaid,60646
+P000097,7/19/23,29,130,70,7.8,98,78,1,Progesterone,Medicaid,60642
+P000098,1/2/24,19,120,80,7,98,70,1,Prenatal Vitamins,Medicare,60653
+P000099,3/19/24,19,120,85,7.8,98,60,1,Iron Supplements,Self-Insured,60606
+P000100,1/4/23,60,90,65,6.8,98,77,1,Levothyroxine,Medicare,60633
+P000101,12/17/22,55,120,90,6.8,98,66,1,Labetalol,Self-Insured,60625
+P000102,7/9/22,25,120,80,6.8,98,66,1,Levothyroxine,Medicare,60602
+P000103,3/25/25,48,140,90,15,98,90,2,Insulin,Medicaid,60614
+P000104,3/16/25,25,140,100,6.8,98,80,2,Methyldopa,Medicare,60608
+P000105,2/11/25,23,140,90,6.8,98,70,2,Insulin,Private,60642
+P000106,12/10/24,34,85,60,11,102,86,2,Heparin,Medicaid,60633
+P000107,1/10/23,50,140,90,15,98,90,2,Folic Acid,Self-Insured,60660
+P000108,7/21/22,25,140,100,6.8,98,80,2,No Medication,Self-Insured,60607
+P000109,6/12/22,42,140,100,18,98,90,2,Progesterone,None,60661
+P000110,8/7/24,32,140,100,7.9,98,78,2,Progesterone,Self-Insured,60622
+P000111,9/19/23,50,140,95,17,98,60,2,Nifedipine,Medicare,60651
+P000112,7/26/23,38,135,60,7.9,101,86,2,Methyldopa,Private,60601
+P000113,11/11/22,39,90,70,9,98,80,2,Heparin,Self-Insured,60656
+P000114,11/17/23,30,140,100,15,98,70,2,Iron Supplements,Medicare,60660
+P000115,3/26/25,63,140,90,15,98,90,2,Levothyroxine,Medicaid,60624
+P000116,2/15/23,25,140,100,7.9,98,80,2,Insulin,Governmental,60608
+P000117,6/14/24,30,120,80,7.9,101,76,2,Heparin,Private,60623
+P000118,11/9/24,55,140,100,18,98,90,2,Methyldopa,None,60611
+P000119,11/18/22,32,140,100,7.9,98,78,2,Insulin,Self-Insured,60602
+P000120,9/26/23,30,140,100,15,98,70,2,Insulin,Self-Insured,60646
+P000121,9/23/23,48,120,80,11,98,88,2,No Medication,Medicaid,60624
+P000122,9/7/23,49,140,90,15,98,90,2,Heparin,Medicare,60642
+P000123,3/20/25,25,140,100,7.5,98,80,2,Levothyroxine,Governmental,60659
+P000124,9/23/24,40,160,100,19,98,77,2,Metformin,Medicare,60620
+P000125,9/14/24,32,140,90,18,98,88,2,Insulin,Medicaid,60640
+P000126,7/8/22,35,140,100,7.5,98,66,2,Magnesium Sulfate,Medicare,60653
+P000127,8/24/23,54,140,100,15,98,66,2,Iron Supplements,Governmental,60607
+P000128,5/20/23,55,140,95,19,98,77,2,Labetalol,Medicare,60626
+P000129,3/24/23,29,120,70,9,98,80,2,Calcium,Medicare,60615
+P000130,3/24/25,48,120,80,11,98,88,2,Insulin,Medicaid,60625
+P000131,6/7/22,40,160,100,19,98,77,2,Magnesium Sulfate,None,60649
+P000132,4/16/24,32,140,90,18,98,88,2,No Medication,Self-Insured,60617
+P000133,9/29/22,35,140,100,7.5,98,66,2,Levothyroxine,Self-Insured,60606
+P000134,7/21/23,54,140,100,15,98,66,2,Methyldopa,Medicare,60649
+P000135,5/19/22,40,120,95,11,98,80,2,Metformin,Private,60607
+P000136,9/2/24,22,90,60,7.5,102,60,2,Iron Supplements,None,60610
+P000137,11/15/23,40,120,85,15,98,60,2,Calcium,Self-Insured,60609
+P000138,11/15/24,55,140,95,19,98,77,2,Methyldopa,Self-Insured,60601
+P000139,1/28/23,50,130,100,16,98,75,2,Prenatal Vitamins,None,60636
+P000140,7/31/24,18,120,80,6.9,102,76,1,Magnesium Sulfate,Governmental,60620
+P000141,7/17/24,32,140,100,6.9,98,78,2,Progesterone,Self-Insured,60646
+P000142,5/12/25,17,90,60,6.9,101,76,1,Heparin,Self-Insured,60601
+P000143,8/10/23,17,90,63,6.9,101,70,1,Metformin,Governmental,60617
+P000144,2/19/24,25,120,90,6.7,101,80,1,Aspirin (low dose),None,60625
+P000145,12/19/22,17,120,80,6.7,102,76,1,Insulin,None,60622
+P000146,11/8/22,14,90,65,7,101,70,2,Heparin,Private,60619
+P000147,4/16/25,15,80,60,6.7,98,80,0,Prenatal Vitamins,Private,60632
+P000148,4/20/25,15,100,65,6.7,98,76,0,Calcium,Medicaid,60613
+P000149,3/7/25,12,95,60,6.7,98,77,0,Insulin,Governmental,60633
+P000150,3/8/24,37,120,90,11,98,88,2,Insulin,None,60631
+P000151,12/23/22,18,100,70,6.7,98,76,0,Levothyroxine,None,60615
+P000152,4/22/25,21,100,85,6.7,98,70,0,No Medication,Private,60607
+P000153,6/27/24,17,110,75,12,101,76,2,Iron Supplements,Self-Insured,60654
+P000154,11/15/24,25,120,90,7.5,98,80,0,Aspirin (low dose),Private,60640
+P000155,12/26/22,23,85,65,7.5,98,70,0,Insulin,None,60647
+P000156,9/30/24,12,95,60,7.5,98,65,0,Heparin,Self-Insured,60626
+P000157,10/20/22,28,120,90,7.5,98,70,0,Nifedipine,Private,60631
+P000158,10/2/22,40,120,90,12,98,80,2,Methyldopa,Self-Insured,60660
+P000159,4/28/25,55,129,85,7.5,98,88,0,Methyldopa,Medicare,60601
+P000160,12/16/22,25,100,90,7.5,98,76,0,Labetalol,Medicaid,60605
+P000161,5/18/23,35,120,80,7.5,98,80,0,No Medication,Medicare,60653
+P000162,6/7/22,21,90,65,7.5,98,76,0,Methyldopa,Medicaid,60655
+P000163,6/2/24,18,90,60,7.5,98,70,0,Aspirin (low dose),Governmental,60657
+P000164,10/10/22,21,120,80,7.5,98,76,0,Calcium,Medicaid,60633
+P000165,10/21/22,16,100,70,7.2,98,80,0,Levothyroxine,Medicare,60616
+P000166,5/9/24,19,120,75,7.2,98,66,0,Labetalol,Medicaid,60621
+P000167,9/25/24,40,160,100,19,98,77,2,Insulin,None,60618
+P000168,3/4/23,32,140,90,18,98,88,2,Folic Acid,Private,60634
+P000169,8/14/24,22,100,65,7.2,98,70,0,Nifedipine,Self-Insured,60624
+P000170,4/26/25,49,120,90,7.2,98,77,0,Aspirin (low dose),Medicaid,60645
+P000171,12/15/24,28,90,60,7.2,98,82,0,Metformin,Governmental,60605
+P000172,8/1/23,12,90,60,7.9,102,66,2,Progesterone,Private,60647
+P000173,7/12/23,20,100,90,7.1,98,88,0,Labetalol,Governmental,60630
+P000174,5/17/23,23,100,85,7.1,98,66,0,Methyldopa,Medicare,60617
+P000175,5/19/23,22,120,90,7.1,98,82,0,Magnesium Sulfate,Governmental,60624
+P000176,10/3/23,21,120,80,7.1,98,77,0,Levothyroxine,Medicare,60630
+P000177,9/24/23,35,140,100,8,98,66,2,Heparin,Private,60644
+P000178,10/7/24,54,140,100,15,98,66,2,Magnesium Sulfate,Self-Insured,60643
+P000179,6/18/22,40,120,95,11,98,80,2,Labetalol,Private,60612
+P000180,8/24/24,21,75,50,6.1,98,70,0,Magnesium Sulfate,Governmental,60605
+P000181,4/30/23,12,95,60,6.1,102,60,0,Labetalol,Private,60642
+P000182,11/30/23,60,120,85,15,98,60,2,Magnesium Sulfate,None,60631
+P000183,3/13/25,55,140,95,19,98,77,2,Prenatal Vitamins,Self-Insured,60626
+P000184,7/1/24,50,130,100,16,98,75,2,Folic Acid,Governmental,60640
+P000185,9/20/23,60,120,80,6.1,98,75,0,Metformin,Private,60608
+P000186,3/4/23,55,100,65,6.1,98,66,0,No Medication,None,60616
+P000187,7/5/23,45,120,95,6.1,98,66,0,Methyldopa,Self-Insured,60622
+P000188,12/30/23,35,100,70,6.1,98,66,0,Aspirin (low dose),Medicaid,60653
+P000189,2/19/23,22,120,85,6.1,98,88,0,Nifedipine,Self-Insured,60601
+P000190,4/20/25,13,90,65,7.9,101,80,1,Insulin,Private,60624
+P000191,2/23/24,23,120,90,6.1,98,60,0,Heparin,Private,60621
+P000192,7/26/24,17,90,65,6.1,103,67,2,Insulin,Governmental,60614
+P000193,12/1/22,28,83,60,8,101,86,2,Aspirin (low dose),Medicare,60649
+P000194,3/18/23,50,120,80,15,98,70,2,Folic Acid,None,60612
+P000195,11/12/22,25,90,70,6.1,98,80,0,Aspirin (low dose),Medicaid,60638
+P000196,10/5/23,30,120,80,6.1,98,70,0,No Medication,Private,60610
+P000197,4/4/23,31,120,60,6.1,98,76,1,Metformin,Governmental,60602
+P000198,4/5/25,23,120,90,6.1,98,70,0,Nifedipine,None,60631
+P000199,1/3/23,29,130,70,6.1,98,78,1,Labetalol,Governmental,60651
+P000200,6/6/24,17,85,60,9,102,86,2,No Medication,None,60621
+P000201,12/21/22,32,120,90,7.5,98,70,0,No Medication,None,60659
+P000202,11/10/23,42,120,80,7.5,98,70,0,Folic Acid,Governmental,60643
+P000203,10/3/23,23,90,60,7.5,98,76,0,Aspirin (low dose),Governmental,60616
+P000204,12/4/23,19,120,80,7,98,70,1,Metformin,Medicaid,60626
+P000205,10/5/22,15,76,49,7.5,98,77,0,No Medication,None,60634
+P000206,8/12/24,33,120,75,10,98,70,2,Metformin,Private,60606
+P000207,4/21/24,48,120,80,11,98,88,2,Folic Acid,Private,60621
+P000208,12/21/23,15,120,80,7,98,70,0,Aspirin (low dose),None,60608
+P000209,7/25/23,25,120,80,7,98,66,0,Aspirin (low dose),None,60641
+P000210,8/5/24,22,100,65,7,98,80,0,Iron Supplements,Self-Insured,60638
+P000211,10/20/23,50,140,95,17,98,60,2,Methyldopa,None,60631
+P000212,2/22/24,35,100,70,7,98,60,0,Insulin,Medicaid,60610
+P000213,7/28/23,19,120,85,7,98,60,0,Levothyroxine,Medicaid,60660
+P000214,6/8/23,60,90,65,7,98,77,0,Prenatal Vitamins,None,60644
+P000215,9/12/22,28,85,60,9,101,86,1,Aspirin (low dose),Medicaid,60622
+P000216,3/25/25,50,140,80,6.7,98,70,1,No Medication,None,60605
+P000217,3/8/23,29,90,70,6.7,98,80,1,Methyldopa,None,60623
+P000218,2/2/25,30,140,100,15,98,70,2,Calcium,Private,60636
+P000219,9/21/23,31,120,60,6.1,98,76,1,Folic Acid,None,60607
+P000220,6/17/23,23,120,90,6.7,98,70,0,Labetalol,Medicare,60601
+P000221,9/10/24,29,130,70,6.7,98,78,1,Iron Supplements,Medicare,60607
+P000222,8/29/22,17,85,60,9,102,86,1,Progesterone,Medicaid,60625
+P000223,10/23/23,32,120,90,6.4,98,70,0,Insulin,Governmental,60636
+P000224,12/8/22,42,120,80,6.4,98,70,0,Heparin,None,60654
+P000225,9/24/24,23,90,60,6.4,98,76,0,Nifedipine,Governmental,60618
+P000226,11/27/24,19,120,80,7,98,70,1,Aspirin (low dose),Medicare,60639
+P000227,1/22/23,15,76,49,6.4,98,77,0,No Medication,Self-Insured,60633
+P000228,3/13/25,29,120,75,7.2,100,70,2,Nifedipine,Medicaid,60620
+P000229,7/2/23,48,120,80,11,98,88,2,Levothyroxine,Governmental,60641
+P000230,11/18/24,15,120,80,7.2,98,70,0,Folic Acid,None,60624
+P000231,10/24/22,50,140,90,15,98,77,2,Folic Acid,Self-Insured,60655
+P000232,5/7/25,25,140,100,7.2,98,80,2,Calcium,Private,60657
+P000233,5/20/24,55,140,80,7.2,101,76,2,Folic Acid,Medicaid,60638
+P000234,3/13/25,20,110,60,7,100,70,1,No Medication,Self-Insured,60638
+P000235,8/13/24,40,140,100,18,98,77,2,No Medication,None,60651
+P000236,10/22/24,28,120,80,9,102,76,2,Insulin,Medicare,60603
+P000237,12/17/22,32,140,100,8,98,70,2,Methyldopa,Governmental,60611
+P000238,2/8/25,17,90,60,11,101,78,2,Methyldopa,Private,60633
+P000239,5/17/23,17,90,63,8,101,70,2,Prenatal Vitamins,None,60629
+P000240,4/2/25,25,120,90,12,101,80,2,Levothyroxine,Medicare,60628
+P000241,5/25/22,17,120,80,7,102,76,2,Folic Acid,Medicaid,60624
+P000242,11/24/24,19,90,65,11,101,70,2,Levothyroxine,Private,60638
+P000243,10/14/23,15,80,60,7,98,80,0,Metformin,Medicaid,60632
+P000244,7/10/22,32,120,65,6,101,76,1,Nifedipine,Governmental,60634
+P000245,6/16/23,12,95,60,7.2,98,77,0,Methyldopa,Self-Insured,60614
+P000246,10/26/22,37,120,90,11,98,88,2,Calcium,Private,60618
+P000247,5/21/22,18,100,70,6.8,98,76,0,Aspirin (low dose),Medicaid,60632
+P000248,9/22/23,21,100,85,6.9,98,70,0,Levothyroxine,Self-Insured,60643
+P000249,10/23/23,17,110,75,13,101,76,2,No Medication,Governmental,60606
+P000250,11/21/23,25,120,90,15,98,80,2,Insulin,Private,60649
+P000251,4/16/23,10,85,65,6.9,98,70,0,Levothyroxine,Medicare,60651
+P000252,1/23/23,12,95,60,6.9,98,65,0,Progesterone,None,60644
+P000253,12/14/22,28,120,90,6.9,98,70,0,Folic Acid,Governmental,60660
+P000254,4/1/25,40,120,90,6.9,98,80,0,Calcium,Self-Insured,60633
+P000255,9/30/22,55,110,85,6.9,98,88,0,No Medication,Private,60606
+P000256,2/18/25,25,100,90,6.9,98,76,0,Progesterone,Medicare,60633
+P000257,2/15/23,35,120,80,6.9,98,80,0,Prenatal Vitamins,Medicare,60651
+P000258,9/14/24,21,90,65,6.9,98,76,0,Methyldopa,Private,60605
+P000259,4/1/23,18,90,60,6.9,98,70,0,Aspirin (low dose),Governmental,60633
+P000260,11/28/22,21,120,80,6.9,98,76,0,Magnesium Sulfate,Self-Insured,60609
+P000261,6/18/24,16,100,70,6.9,98,80,0,Magnesium Sulfate,Self-Insured,60604
+P000262,7/8/23,19,120,75,6.9,98,66,0,Calcium,Governmental,60643
+P000263,3/20/25,40,160,100,19,98,77,2,No Medication,Self-Insured,60630
+P000264,12/9/24,32,140,90,18,98,88,2,Labetalol,Medicaid,60604
+P000265,3/19/25,22,100,65,6.9,98,70,0,Labetalol,Private,60654
+P000266,11/15/23,49,120,90,6.9,98,77,0,Metformin,Governmental,60657
+P000267,10/26/24,28,90,60,6.9,98,82,0,No Medication,Private,60632
+P000268,8/27/23,12,90,60,8,102,66,2,Levothyroxine,Medicaid,60602
+P000269,12/30/24,20,100,90,7,98,88,0,Calcium,Medicaid,60640
+P000270,11/17/23,23,100,85,7,98,66,0,Labetalol,Self-Insured,60647
+P000271,4/12/25,22,120,90,7,98,82,0,Folic Acid,Private,60660
+P000272,12/16/24,21,120,80,7,98,77,0,Insulin,Governmental,60654
+P000273,11/13/23,35,140,100,9,98,66,2,Calcium,Medicaid,60605
+P000274,10/14/23,54,140,100,15,98,66,2,Iron Supplements,Private,60644
+P000275,9/18/22,40,120,95,11,98,80,2,Magnesium Sulfate,None,60623
+P000276,4/22/25,21,75,50,7.7,98,60,0,Metformin,None,60644
+P000277,7/16/22,12,90,60,11,102,60,2,Prenatal Vitamins,Private,60642
+P000278,1/18/25,60,120,85,15,98,60,2,Iron Supplements,Private,60603
+P000279,2/12/25,55,140,95,19,98,77,2,No Medication,Private,60661
+P000280,10/2/23,50,130,100,16,98,76,2,Iron Supplements,None,60620
+P000281,12/31/23,60,120,80,7.7,98,75,0,Levothyroxine,Governmental,60661
+P000282,7/18/22,55,100,65,7.7,98,66,0,Heparin,Medicaid,60610
+P000283,6/25/23,45,120,95,7.7,98,66,0,Levothyroxine,Medicare,60617
+P000284,9/14/23,35,100,70,7.7,98,66,0,Aspirin (low dose),Medicare,60638
+P000285,3/30/24,22,120,85,7.7,98,88,0,Folic Acid,Medicaid,60623
+P000286,6/11/22,13,90,65,9,101,80,2,Aspirin (low dose),Governmental,60606
+P000287,10/14/22,23,120,90,7.7,98,60,0,Methyldopa,None,60656
+P000288,3/7/23,17,90,65,7.7,103,67,2,Levothyroxine,Medicare,60621
+P000289,3/12/24,26,85,60,6,101,86,1,Aspirin (low dose),Self-Insured,60657
+P000290,1/10/24,50,120,80,7.7,98,70,0,Iron Supplements,Medicaid,60622
+P000291,12/8/23,19,90,70,7.7,98,80,0,Heparin,Private,60625
+P000292,10/26/24,30,120,80,7.7,98,70,0,Iron Supplements,Self-Insured,60624
+P000293,9/24/24,31,120,60,6.1,98,76,0,No Medication,Self-Insured,60645
+P000294,4/2/24,23,120,80,7.7,98,70,0,Calcium,Private,60622
+P000295,5/20/24,29,130,70,7.7,98,78,1,Prenatal Vitamins,Medicare,60604
+P000296,9/16/23,17,85,60,6.3,102,86,2,Heparin,Medicaid,60659
+P000297,6/8/22,32,120,90,7.7,98,70,0,Nifedipine,Self-Insured,60641
+P000298,4/10/23,42,120,80,7.7,98,70,0,Magnesium Sulfate,Medicare,60617
+P000299,7/12/23,23,90,60,7.7,98,76,0,Metformin,Governmental,60611
+P000300,7/5/23,19,120,80,7,98,70,1,Progesterone,Private,60639
+P000301,4/17/25,15,75,49,7.7,98,77,0,Iron Supplements,Self-Insured,60647
+P000302,11/13/24,40,120,75,7.7,98,70,2,Magnesium Sulfate,Private,60611
+P000303,3/14/24,48,120,80,11,98,88,2,Calcium,None,60633
+P000304,12/1/24,15,120,80,7.7,98,70,0,Prenatal Vitamins,Medicaid,60625
+P000305,10/31/24,25,120,80,7.7,98,66,0,Methyldopa,Medicaid,60638
+P000306,12/22/22,22,100,65,6.9,98,80,0,Progesterone,Self-Insured,60642
+P000307,3/23/24,12,120,95,6.9,98,60,0,Calcium,Self-Insured,60622
+P000308,6/3/24,35,100,70,6.9,98,60,0,Levothyroxine,None,60652
+P000309,7/29/23,19,120,85,6.9,98,60,0,Magnesium Sulfate,None,60659
+P000310,5/22/24,60,90,65,6.9,98,77,0,Calcium,Medicare,60607
+P000311,5/20/22,55,120,90,6.9,98,76,0,No Medication,None,60616
+P000312,12/6/23,35,90,65,6.9,98,75,0,Progesterone,Medicare,60605
+P000313,11/4/23,51,85,60,6.9,98,66,0,Iron Supplements,Medicaid,60609
+P000314,3/29/23,62,120,80,6.9,98,66,0,Nifedipine,Private,60630
+P000315,4/5/23,25,90,70,6.9,98,66,0,No Medication,None,60605
+P000316,8/31/22,21,120,80,6.9,98,88,0,Magnesium Sulfate,None,60611
+P000317,9/23/23,22,120,60,15,98,80,2,Iron Supplements,Medicare,60623
+P000318,1/30/25,55,120,90,18,98,60,2,Methyldopa,Governmental,60646
+P000319,10/11/22,54,130,70,12,98,67,1,Progesterone,Self-Insured,60645
+P000320,11/16/22,35,85,60,19,98,86,2,Labetalol,Self-Insured,60653
+P000321,11/3/22,43,120,90,18,98,70,2,Methyldopa,None,60608
+P000322,1/9/23,12,120,80,6.9,98,80,0,Heparin,Private,60656
+P000323,9/22/22,65,90,60,6.9,98,70,0,Calcium,None,60606
+P000324,8/21/24,60,120,80,6.9,98,76,0,Metformin,Medicaid,60621
+P000325,4/20/24,25,120,90,6.9,98,70,0,Methyldopa,Governmental,60640
+P000326,4/9/23,22,90,65,6.9,98,78,0,Methyldopa,Medicaid,60660
+P000327,2/1/23,66,85,60,6.9,98,86,0,Aspirin (low dose),Private,60602
+P000328,2/3/24,56,120,80,13,98,70,2,Methyldopa,Private,60641
+P000329,6/27/22,35,90,70,6.9,98,70,0,Levothyroxine,Private,60649
+P000330,3/24/23,43,120,80,15,98,76,2,Levothyroxine,Medicare,60607
+P000331,2/23/24,35,120,60,6.9,98,70,0,Progesterone,Medicare,60652
+P000332,9/16/24,44,120,90,16,98,80,1,Nifedipine,Self-Insured,60629
+P000333,9/26/24,23,130,70,6.9,98,70,1,Levothyroxine,Self-Insured,60654
+P000334,11/4/24,22,85,60,6.9,98,76,1,Insulin,Medicaid,60636
+P000335,6/22/22,55,120,90,12,98,70,1,Folic Acid,Medicare,60613
+P000336,2/13/25,35,120,80,6.9,98,78,1,Insulin,Private,60660
+P000337,9/22/22,21,90,60,6.9,98,86,1,Levothyroxine,Self-Insured,60640
+P000338,8/25/24,45,120,80,6.9,103,70,0,Iron Supplements,Medicare,60634
+P000339,6/15/24,70,85,60,6.9,102,70,0,Aspirin (low dose),Self-Insured,60614
+P000340,8/24/22,65,120,90,6.9,103,76,0,Methyldopa,Medicare,60643
+P000341,6/14/23,55,120,80,6.9,102,80,0,Magnesium Sulfate,None,60640
+P000342,2/25/24,45,90,60,18,101,70,2,Iron Supplements,Medicare,60628
+P000343,8/7/23,22,120,80,6.9,103,76,0,No Medication,Medicaid,60617
+P000344,11/18/24,16,90,65,6.9,98,76,1,Prenatal Vitamins,Private,60659
+P000345,2/25/24,12,95,60,6.9,98,77,0,Metformin,Medicare,60602
+P000346,8/20/23,37,120,90,11,98,88,2,Metformin,Governmental,60610
+P000347,5/1/25,18,100,70,6.9,98,76,0,Labetalol,Medicare,60636
+P000348,7/22/24,21,100,85,6.9,98,70,0,Nifedipine,None,60641
+P000349,5/9/23,17,110,75,6.9,101,76,2,Prenatal Vitamins,Medicaid,60644
+P000350,5/26/24,25,120,90,6.9,98,80,0,Aspirin (low dose),Self-Insured,60619
+P000351,4/23/24,33,115,65,7,98,70,1,Labetalol,Private,60653
+P000352,3/12/25,12,95,60,6.9,98,65,1,Prenatal Vitamins,Self-Insured,60626
+P000353,10/13/24,28,120,90,6.9,98,70,1,Calcium,Private,60614
+P000354,7/20/23,40,120,90,6.9,98,80,2,Magnesium Sulfate,Medicaid,60656
+P000355,2/21/23,55,110,85,6.9,98,88,2,Iron Supplements,Medicare,60614
+P000356,1/9/23,25,100,90,6.9,98,76,2,Folic Acid,None,60629
+P000357,12/28/24,35,120,80,6.9,98,80,2,Progesterone,Private,60646
+P000358,10/1/23,21,90,65,6.9,98,76,1,No Medication,Governmental,60640
+P000359,8/8/23,18,90,60,6.9,98,70,1,Progesterone,Governmental,60630
+P000360,5/1/24,21,120,80,6.9,98,76,1,No Medication,Medicare,60629
+P000361,3/19/24,16,100,70,6.9,98,80,1,Aspirin (low dose),Self-Insured,60603
+P000362,10/16/22,19,120,75,6.9,98,66,1,Iron Supplements,Private,60624
+P000363,11/14/23,40,160,100,19,98,77,2,Iron Supplements,Private,60641
+P000364,2/8/23,32,140,90,18,98,88,2,Folic Acid,Medicaid,60622
+P000365,1/5/25,23,100,85,6.9,98,66,1,Progesterone,None,60604
+P000366,9/29/24,22,120,90,7.8,98,82,1,Labetalol,Self-Insured,60626
+P000367,3/20/24,21,120,80,7.8,98,77,0,Prenatal Vitamins,None,60638
+P000368,10/3/22,35,140,100,7.8,98,66,2,Prenatal Vitamins,Medicare,60606
+P000369,3/15/25,54,140,100,15,98,66,2,Aspirin (low dose),Governmental,60610
+P000370,7/12/24,40,120,95,11,98,80,2,No Medication,Private,60601
+P000371,11/22/24,21,75,50,7.8,98,60,0,Insulin,Medicaid,60603
+P000372,7/3/23,12,90,60,7.8,102,60,2,Metformin,Medicare,60607
+P000373,1/30/23,60,120,85,15,98,60,1,Folic Acid,None,60626
+P000374,12/1/24,55,140,95,19,98,77,2,Levothyroxine,Self-Insured,60654
+P000375,5/29/23,50,130,100,16,98,75,2,Folic Acid,None,60613
+P000376,10/2/23,60,120,80,7.8,98,75,2,Metformin,None,60623
+P000377,2/16/25,55,100,65,7.8,98,66,0,Prenatal Vitamins,None,60640
+P000378,11/27/24,45,120,95,7.8,98,66,0,Folic Acid,Governmental,60619
+P000379,7/28/23,35,100,70,7.8,98,66,0,Labetalol,Private,60632
+P000380,10/6/22,22,120,85,7.8,98,88,0,Folic Acid,Private,60630
+P000381,9/20/23,13,90,65,7.8,101,80,1,Folic Acid,Medicaid,60659
+P000382,10/8/22,23,120,90,7.8,98,60,1,Aspirin (low dose),Governmental,60647
+P000383,9/27/23,17,90,65,7.8,103,67,2,No Medication,None,60653
+P000384,4/30/24,28,115,60,7.8,101,86,1,Heparin,Medicare,60654
+P000385,1/7/25,50,120,80,7.8,98,70,1,Iron Supplements,Private,60634
+P000386,8/31/23,19,90,70,7.8,98,80,0,Metformin,None,60661
+P000387,3/17/24,30,120,80,7.8,98,70,0,Nifedipine,Medicaid,60661
+P000388,8/9/22,31,120,60,6.1,98,76,0,Nifedipine,Governmental,60601
+P000389,4/3/23,23,120,70,7.8,98,70,0,Methyldopa,Self-Insured,60654
+P000390,6/21/24,29,130,70,7.8,98,78,1,No Medication,Governmental,60640
+P000391,11/25/23,17,85,69,7.8,102,86,2,Aspirin (low dose),Governmental,60645
+P000392,2/21/23,32,120,90,7.8,98,70,0,Iron Supplements,Self-Insured,60608
+P000393,9/14/24,42,120,80,7.8,98,70,0,Aspirin (low dose),None,60655
+P000394,12/31/23,23,90,60,7.8,98,76,0,Calcium,Self-Insured,60618
+P000395,10/11/22,19,120,80,7,98,70,1,Nifedipine,Governmental,60651
+P000396,11/3/23,15,76,49,7.8,98,77,0,Metformin,Medicare,60611
+P000397,2/6/23,20,120,75,7.8,98,70,0,Methyldopa,Medicaid,60610
+P000398,3/13/25,48,120,80,11,98,88,2,Calcium,Medicare,60649
+P000399,5/15/25,15,120,80,7.8,98,70,0,Aspirin (low dose),None,60653
+P000400,11/20/24,25,120,80,7.8,98,66,0,Calcium,Self-Insured,60655
+P000401,5/26/22,22,100,65,7.8,98,80,0,Iron Supplements,Self-Insured,60621
+P000402,5/26/24,12,120,95,7.8,98,60,0,Prenatal Vitamins,Medicaid,60609
+P000403,5/25/23,35,100,70,7.8,98,60,0,Levothyroxine,Medicare,60636
+P000404,7/16/22,19,120,85,7.8,98,60,1,Folic Acid,None,60643
+P000405,3/9/25,60,90,65,6.8,98,77,1,Prenatal Vitamins,None,60660
+P000406,8/11/22,55,120,90,6.8,98,66,1,Insulin,Medicare,60638
+P000407,12/6/22,25,120,80,6.8,98,66,1,Labetalol,Medicare,60613
+P000408,11/28/23,22,100,65,6.8,98,88,0,Prenatal Vitamins,Private,60625
+P000409,7/20/23,12,120,95,6.8,98,60,1,Folic Acid,None,60610
+P000410,4/23/24,35,100,70,6.8,98,60,1,Methyldopa,Medicaid,60636
+P000411,12/18/23,19,120,90,6.8,98,60,1,Metformin,None,60654
+P000412,1/16/23,60,90,65,6.8,98,77,1,Nifedipine,Private,60655
+P000413,7/18/23,55,120,90,6.8,98,78,0,No Medication,Private,60641
+P000414,4/21/25,50,130,80,16,102,76,1,Progesterone,Private,60639
+P000415,2/7/24,27,120,90,6.8,102,68,1,Magnesium Sulfate,Governmental,60638
+P000416,9/22/24,60,140,90,12,98,77,2,Aspirin (low dose),Private,60601
+P000417,5/22/23,55,100,70,6.8,101,80,1,Methyldopa,Governmental,60607
+P000418,2/22/24,60,140,80,16,98,66,2,Nifedipine,Medicaid,60656
+P000419,2/20/24,12,120,90,6.8,98,80,1,Iron Supplements,Private,60607
+P000420,9/18/23,17,140,100,6.8,103,80,2,Insulin,None,60646
+P000421,2/9/25,60,120,80,6.8,98,77,1,Magnesium Sulfate,Private,60640
+P000422,6/12/22,22,100,65,6.8,98,88,0,Nifedipine,None,60634
+P000423,1/7/23,36,140,100,6.8,102,76,2,Heparin,Self-Insured,60616
+P000424,7/9/24,22,90,60,6.8,98,77,0,Insulin,Medicaid,60619
+P000425,4/9/23,25,120,100,6.8,98,60,1,Aspirin (low dose),Self-Insured,60604
+P000426,3/17/24,35,100,60,15,98,80,2,Metformin,Self-Insured,60632
+P000427,5/22/22,40,140,100,13,101,66,2,Heparin,Self-Insured,60619
+P000428,8/26/22,27,120,70,6.8,98,77,0,Labetalol,Medicaid,60656
+P000429,2/23/24,36,140,100,6.8,102,76,2,Labetalol,Self-Insured,60645
+P000430,12/8/23,22,90,60,6.8,98,77,1,Labetalol,Private,60606
+P000431,9/23/22,25,120,100,6.8,98,60,0,No Medication,Governmental,60621
+P000432,1/15/25,35,100,60,15,98,80,2,Calcium,None,60613
+P000433,7/16/24,40,140,100,13,101,66,2,Levothyroxine,Medicaid,60649
+P000434,6/11/22,27,120,70,6.8,98,77,0,Iron Supplements,None,60606
+P000435,5/28/22,27,120,70,6.8,98,77,0,Aspirin (low dose),Governmental,60613
+P000436,3/11/24,65,130,80,15,98,86,2,Progesterone,Medicaid,60651
+P000437,3/10/25,35,140,80,13,98,70,2,No Medication,Medicare,60607
+P000438,9/19/23,29,90,70,10,98,80,2,Iron Supplements,Governmental,60623
+P000439,7/31/24,30,120,80,6.8,98,70,1,Heparin,Self-Insured,60644
+P000440,9/8/24,35,120,60,6.1,98,76,1,Progesterone,Medicare,60634
+P000441,3/31/24,23,140,90,6.8,98,70,2,Aspirin (low dose),Governmental,60656
+P000442,4/4/25,23,130,70,6.8,98,78,1,Folic Acid,Governmental,60618
+P000443,2/13/24,35,85,60,11,102,86,2,Heparin,Private,60602
+P000444,5/21/22,32,120,90,6.8,98,70,0,Aspirin (low dose),Governmental,60609
+P000445,2/19/25,43,130,80,18,98,70,1,Folic Acid,Medicaid,60645
+P000446,9/16/24,23,99,60,6.8,98,76,0,Metformin,None,60652
+P000447,3/31/24,19,120,80,7,98,70,1,Iron Supplements,Self-Insured,60602
+P000448,8/4/24,15,76,49,6.8,98,77,0,Calcium,Governmental,60617
+P000449,7/14/22,30,120,75,6.8,98,70,1,Labetalol,Self-Insured,60644
+P000450,7/13/23,48,120,80,11,98,88,2,Prenatal Vitamins,Private,60634
+P000451,1/24/23,15,120,80,6.8,98,70,0,No Medication,Self-Insured,60608
+P000452,3/15/23,48,140,90,15,98,90,2,Levothyroxine,Governmental,60605
+P000453,12/30/23,25,140,100,6.8,98,80,2,Levothyroxine,Medicare,60652
+P000454,6/19/22,29,100,70,6.8,98,80,0,Magnesium Sulfate,Governmental,60630
+P000455,1/4/24,32,120,80,6.8,98,70,1,Metformin,Medicare,60626
+P000456,12/28/22,35,120,60,6.1,98,76,0,Labetalol,Governmental,60652
+P000457,12/20/24,23,140,90,6.8,98,70,2,Aspirin (low dose),Governmental,60608
+P000458,8/18/23,23,130,70,6.8,98,78,1,Insulin,Medicaid,60651
+P000459,7/6/22,34,85,60,11,102,86,2,Iron Supplements,Self-Insured,60616
+P000460,2/12/24,32,120,90,6.8,98,70,0,Metformin,Governmental,60659
+P000461,5/20/24,42,130,80,18,98,70,1,Prenatal Vitamins,Self-Insured,60622
+P000462,1/7/24,23,90,60,6.8,98,76,0,Nifedipine,Medicare,60601
+P000463,2/16/23,19,120,80,7,98,70,1,Metformin,Medicare,60637
+P000464,6/4/23,15,76,49,6.8,98,77,0,Progesterone,None,60642
+P000465,12/7/22,20,120,75,6.8,98,70,0,Iron Supplements,Medicaid,60634
+P000466,11/23/23,48,120,80,11,98,88,0,Nifedipine,Governmental,60606
+P000467,4/19/23,15,120,80,6.8,98,70,0,Insulin,None,60656
+P000468,7/13/24,50,140,90,15,98,90,2,Iron Supplements,Private,60654
+P000469,7/3/24,25,140,100,6.8,98,80,2,Methyldopa,Governmental,60643
+P000470,7/9/24,30,120,80,6.8,101,76,0,Levothyroxine,Private,60606
+P000471,1/12/24,31,110,90,6.8,100,70,1,Magnesium Sulfate,Medicare,60637
+P000472,6/20/22,42,140,100,18,98,90,2,Heparin,None,60657
+P000473,1/28/24,18,120,80,6.8,102,76,0,Aspirin (low dose),Governmental,60601
+P000474,7/13/23,32,140,100,7.9,98,78,2,Aspirin (low dose),Medicaid,60641
+P000475,4/7/24,17,90,60,7.9,101,76,0,Labetalol,Governmental,60654
+P000476,11/14/24,19,120,80,7,98,70,1,Methyldopa,Private,60655
+P000477,8/7/22,15,76,49,7.9,98,77,0,Prenatal Vitamins,None,60644
+P000478,9/16/24,19,120,75,7.9,98,70,0,Prenatal Vitamins,Medicare,60615
+P000479,12/27/22,48,120,80,11,98,88,0,No Medication,Governmental,60642
+P000480,8/24/23,15,120,80,7.9,98,70,0,Nifedipine,Self-Insured,60602
+P000481,2/24/24,25,120,80,7.9,98,66,1,Metformin,Medicaid,60659
+P000482,10/19/22,22,100,65,7.9,98,80,0,Magnesium Sulfate,Private,60607
+P000483,1/31/24,50,140,95,17,98,60,2,Aspirin (low dose),None,60606
+P000484,9/29/24,35,100,70,7.9,98,60,0,Insulin,None,60645
+P000485,6/20/23,19,120,85,7.9,98,60,0,Nifedipine,Medicare,60637
+P000486,8/16/22,60,90,65,7.9,98,77,0,Magnesium Sulfate,Private,60653
+P000487,8/28/24,38,135,60,7.9,101,86,2,Methyldopa,Governmental,60660
+P000488,6/30/23,50,120,80,7.9,98,70,0,Levothyroxine,Governmental,60626
+P000489,10/5/23,39,90,70,9,98,80,2,Labetalol,Private,60624
+P000490,6/6/22,30,140,100,15,98,70,2,Progesterone,Medicare,60620
+P000491,6/8/23,31,120,60,6.1,98,76,1,Calcium,Medicare,60606
+P000492,9/6/24,23,120,90,7.9,98,70,1,Heparin,Private,60659
+P000493,5/8/23,29,130,70,7.9,98,78,1,No Medication,Medicare,60609
+P000494,12/25/23,17,85,60,7.9,102,86,0,Levothyroxine,Governmental,60615
+P000495,6/22/22,32,120,90,7.9,98,70,0,Metformin,Medicaid,60613
+P000496,7/7/23,42,120,80,7.9,98,70,0,Heparin,Medicaid,60641
+P000497,1/5/24,23,90,60,7.9,98,76,0,Aspirin (low dose),Medicare,60629
+P000498,6/19/22,19,120,80,7,98,70,0,Calcium,Self-Insured,60622
+P000499,1/21/24,15,76,49,7.9,98,77,0,Folic Acid,Medicare,60610
+P000500,10/31/22,16,120,75,7.9,98,70,0,Calcium,None,60636
+P000501,6/18/24,48,120,80,11,98,88,1,Prenatal Vitamins,None,60653
+P000502,7/4/22,15,120,80,7.9,98,70,0,Labetalol,Governmental,60639
+P000503,10/28/23,63,140,90,15,98,90,2,Prenatal Vitamins,None,60609
+P000504,9/4/23,25,140,100,7.9,98,80,2,Magnesium Sulfate,Medicare,60641
+P000505,9/5/22,30,120,80,7.9,101,76,2,Prenatal Vitamins,Self-Insured,60639
+P000506,7/15/24,17,70,50,7.9,98,70,0,Iron Supplements,Self-Insured,60620
+P000507,6/27/22,55,140,100,18,98,90,2,Prenatal Vitamins,Self-Insured,60602
+P000508,1/6/24,18,120,80,7.9,102,76,1,Prenatal Vitamins,Governmental,60661
+P000509,12/23/24,32,140,100,7.9,98,78,2,Methyldopa,None,60638
+P000510,11/9/24,17,90,60,7.5,101,76,0,Nifedipine,Governmental,60649
+P000511,12/2/24,17,90,63,7.5,101,70,0,Nifedipine,Medicare,60609
+P000512,3/3/24,25,120,90,7.5,101,80,0,Levothyroxine,None,60607
+P000513,5/10/25,17,120,80,7.5,102,76,0,No Medication,None,60661
+P000514,9/17/23,19,90,65,7.5,101,70,0,Levothyroxine,Medicare,60606
+P000515,6/12/22,15,80,60,7.5,98,80,0,Heparin,None,60660
+P000516,11/27/23,60,90,65,7.5,98,77,0,Progesterone,Medicare,60604
+P000517,5/19/24,18,85,60,7.5,101,86,1,Labetalol,Self-Insured,60656
+P000518,8/11/24,50,120,80,7.5,98,70,0,Nifedipine,Medicare,60655
+P000519,8/8/24,19,90,70,7.5,98,80,0,Iron Supplements,Self-Insured,60655
+P000520,11/15/22,30,140,100,15,98,70,2,Magnesium Sulfate,Private,60633
+P000521,12/14/24,31,120,60,6.1,98,76,0,Labetalol,Self-Insured,60640
+P000522,11/7/22,23,120,90,7.5,98,70,0,Nifedipine,Private,60601
+P000523,6/11/23,29,130,70,7.5,98,78,1,Insulin,Private,60621
+P000524,12/1/24,17,85,60,7.5,102,86,0,Folic Acid,Medicaid,60655
+P000525,7/14/24,32,120,90,7.5,98,70,0,Levothyroxine,Medicaid,60612
+P000526,2/6/23,42,120,80,7.5,98,70,0,Insulin,Medicare,60659
+P000527,8/10/22,42,90,60,7.5,98,76,0,Iron Supplements,Private,60604
+P000528,8/22/24,19,120,80,7,98,70,0,Labetalol,Governmental,60614
+P000529,4/7/25,15,78,49,7.5,98,77,0,Methyldopa,Medicaid,60654
+P000530,1/6/23,23,120,75,8,98,70,1,Progesterone,Medicaid,60614
+P000531,4/11/25,48,120,80,11,98,88,2,Levothyroxine,None,60657
+P000532,6/8/24,15,120,80,7.5,98,70,1,Levothyroxine,None,60638
+P000533,6/8/23,49,140,90,15,98,90,2,Progesterone,Self-Insured,60628
+P000534,9/6/23,25,140,100,7.5,98,80,2,Aspirin (low dose),None,60607
+P000535,4/23/25,30,120,80,7.5,101,76,1,Nifedipine,Governmental,60629
+P000536,2/19/23,16,70,50,7.5,100,70,0,Calcium,None,60611
+P000537,3/21/25,16,100,70,7.5,98,80,0,No Medication,Medicaid,60613
+P000538,9/16/23,19,120,75,7.5,98,66,0,No Medication,Medicaid,60661
+P000539,11/23/22,40,160,100,19,98,77,2,No Medication,Governmental,60630
+P000540,11/5/22,32,140,90,18,98,88,2,Folic Acid,Private,60657
+P000541,9/23/24,22,100,65,7.5,98,70,0,Progesterone,None,60661
+P000542,3/4/25,49,120,90,7.5,98,77,0,Insulin,Governmental,60655
+P000543,12/19/22,28,90,60,7.5,98,82,0,Calcium,Private,60618
+P000544,12/10/23,12,90,60,7.5,102,66,0,Calcium,Self-Insured,60633
+P000545,8/2/23,20,100,90,7.5,98,88,0,Progesterone,Private,60613
+P000546,1/23/25,23,100,85,7.5,98,66,0,Metformin,Private,60611
+P000547,11/21/23,22,120,90,7.5,98,82,0,Labetalol,Medicare,60654
+P000548,10/11/24,21,120,80,7.5,98,77,0,Metformin,Private,60638
+P000549,6/29/23,35,140,100,7.5,98,66,2,Progesterone,None,60645
+P000550,12/5/24,54,140,100,15,98,66,2,Progesterone,Medicaid,60640
+P000551,10/26/23,40,120,95,11,98,80,1,Calcium,Medicare,60625
+P000552,1/21/25,21,75,50,7.5,98,60,0,No Medication,Private,60628
+P000553,5/1/23,12,90,60,7.5,102,60,0,Nifedipine,Medicare,60657
+P000554,4/7/24,60,120,85,15,98,60,1,Magnesium Sulfate,Medicaid,60626
+P000555,5/4/24,55,140,95,19,98,77,2,Prenatal Vitamins,Private,60618
+P000556,6/1/24,50,130,100,16,98,75,1,Magnesium Sulfate,Medicaid,60651
+P000557,4/4/23,60,120,80,7.5,98,75,0,Aspirin (low dose),Medicaid,60660
+P000558,3/18/23,55,100,65,7.5,98,66,0,No Medication,Private,60609
+P000559,7/4/22,45,120,95,7.5,98,66,0,Levothyroxine,Private,60613
+P000560,11/26/24,35,100,70,7.5,98,66,0,Magnesium Sulfate,Medicaid,60638
+P000561,9/5/24,22,120,85,7.5,98,88,0,Levothyroxine,None,60623
+P000562,6/23/24,13,90,65,7.5,101,80,0,Methyldopa,Medicaid,60649
+P000563,7/12/22,23,120,90,7.5,98,60,0,Prenatal Vitamins,Medicare,60602
+P000564,9/26/24,17,90,65,7.5,103,67,0,Folic Acid,Private,60616
+P000565,12/24/24,28,115,60,7.5,101,86,1,Calcium,None,60636
+P000566,12/22/22,59,120,80,7.5,98,70,0,Insulin,Private,60623
+P000567,1/23/25,29,120,70,9,98,80,2,Levothyroxine,Medicare,60642
+P000568,4/22/23,23,120,80,7.5,98,70,0,No Medication,Self-Insured,60624
+P000569,4/12/23,31,120,60,6.1,98,76,1,Methyldopa,Private,60615
+P000570,12/8/24,23,120,80,7.5,98,70,1,No Medication,Self-Insured,60615
+P000571,8/10/22,29,130,70,7.5,98,78,1,Methyldopa,Governmental,60642
+P000572,10/28/24,17,85,60,7.5,102,86,0,Levothyroxine,Private,60617
+P000573,12/17/22,32,120,90,7.5,98,70,0,Insulin,Medicare,60604
+P000574,11/14/22,42,120,80,7.5,98,70,0,Calcium,Private,60646
+P000575,10/21/24,23,90,60,7.5,98,76,0,Iron Supplements,Medicare,60626
+P000576,3/24/25,19,120,80,7,98,70,0,Iron Supplements,None,60653
+P000577,12/24/24,15,78,49,7.5,98,77,0,No Medication,Governmental,60613
+P000578,4/19/25,20,120,75,7.5,98,70,0,Magnesium Sulfate,Self-Insured,60601
+P000579,10/31/24,48,120,80,11,98,88,2,Insulin,Governmental,60656
+P000580,5/11/25,15,120,80,7.5,98,70,0,Levothyroxine,None,60643
+P000581,4/12/24,24,120,80,7.5,98,66,0,Nifedipine,Medicare,60645
+P000582,9/27/23,16,100,70,7.5,98,80,0,Labetalol,Medicaid,60651
+P000583,7/21/22,19,120,76,7.5,98,66,0,Levothyroxine,Private,60605
+P000584,6/28/23,40,160,100,19,98,77,2,Aspirin (low dose),None,60620
+P000585,5/24/23,32,140,90,18,98,88,2,Labetalol,Private,60645
+P000586,1/21/24,22,100,65,7.5,98,70,1,Metformin,Self-Insured,60632
+P000587,7/29/22,49,120,90,7.5,98,77,1,Heparin,Medicare,60631
+P000588,10/21/22,28,90,60,7.5,98,82,1,Metformin,Governmental,60661
+P000589,7/14/23,12,90,60,7.5,102,66,1,Nifedipine,Self-Insured,60612
+P000590,6/18/23,20,100,90,7.5,98,88,1,Progesterone,Governmental,60612
+P000591,4/29/24,23,100,85,7.5,98,66,1,Labetalol,None,60603
+P000592,4/28/25,22,120,90,7.5,98,82,1,Progesterone,Self-Insured,60622
+P000593,7/13/24,21,120,80,7.5,98,77,1,Prenatal Vitamins,Medicare,60605
+P000594,8/11/24,35,140,100,7.5,98,66,2,Iron Supplements,Private,60656
+P000595,3/5/25,54,140,100,15,98,66,2,Calcium,Medicare,60614
+P000596,9/13/24,40,120,95,11,98,80,2,Nifedipine,Private,60608
+P000597,7/25/23,21,75,50,7.5,98,60,0,Heparin,Medicaid,60654
+P000598,1/7/24,22,90,60,7.5,102,60,2,Labetalol,Self-Insured,60613
+P000599,7/18/22,40,120,85,15,98,60,2,Calcium,None,60647
+P000600,4/24/23,55,140,95,19,98,77,2,Levothyroxine,Medicaid,60606
+P000601,10/27/22,50,130,100,16,98,75,2,Folic Acid,Governmental,60654
+P000602,12/6/23,60,120,80,7.5,98,75,1,Nifedipine,None,60630
+P000603,8/8/23,40,120,85,15,98,60,2,Progesterone,Medicaid,60606
+P000604,11/23/23,55,140,95,19,98,77,2,Aspirin (low dose),None,60602
+P000605,3/31/25,50,130,100,16,98,75,1,No Medication,Self-Insured,60655
+P000606,2/7/24,41,120,80,7.5,98,75,0,Insulin,None,60631
+P000607,9/14/23,55,100,65,7.5,98,66,0,Folic Acid,Medicaid,60621
+P000608,7/23/24,45,120,95,7.5,98,66,0,Nifedipine,Medicaid,60659
+P000609,3/9/23,35,100,70,7.5,98,66,0,Insulin,Governmental,60608
+P000610,8/31/24,22,120,85,7.5,98,88,0,Insulin,Governmental,60651
+P000611,10/19/24,13,90,65,7.5,101,80,2,Progesterone,Governmental,60633
+P000612,2/8/24,23,120,90,7.5,98,60,0,Aspirin (low dose),Medicaid,60638
+P000613,10/6/24,17,90,65,7.5,103,67,1,Folic Acid,Medicaid,60638
+P000614,11/3/22,27,135,60,7.5,101,86,2,Insulin,Self-Insured,60625
+P000615,12/7/22,50,120,80,15,98,70,2,Aspirin (low dose),Medicare,60615
+P000616,2/26/23,34,110,70,7,98,80,2,Folic Acid,Medicare,60640
+P000617,2/14/23,32,120,80,7.5,98,70,0,Iron Supplements,Medicare,60639
+P000618,9/1/22,31,120,60,6.1,98,76,0,Levothyroxine,Governmental,60646
+P000619,8/4/23,23,120,90,7.5,98,70,0,Aspirin (low dose),Self-Insured,60602
+P000620,8/16/23,29,130,70,7.5,98,78,1,Progesterone,None,60618
+P000621,5/3/24,17,85,60,7.5,101,86,2,Folic Acid,Medicare,60653
+P000622,3/3/25,32,120,90,7.5,98,70,0,No Medication,Self-Insured,60625
+P000623,1/28/23,42,120,80,7.5,98,70,0,No Medication,None,60634
+P000624,7/3/24,23,90,60,7.5,98,76,0,No Medication,Private,60603
+P000625,12/20/22,19,120,80,7,98,70,1,Magnesium Sulfate,Self-Insured,60631
+P000626,6/5/22,15,76,49,7.5,98,77,0,Magnesium Sulfate,Self-Insured,60646
+P000627,11/4/23,20,120,76,7.5,98,70,0,Aspirin (low dose),Private,60601
+P000628,11/15/22,48,120,80,11,98,88,2,Insulin,Medicaid,60640
+P000629,9/20/23,15,120,80,7.5,98,70,0,No Medication,None,60642
+P000630,8/8/23,24,120,80,7.5,98,66,0,Progesterone,Self-Insured,60603
+P000631,10/8/24,22,100,65,12,98,80,2,Aspirin (low dose),None,60659
+P000632,6/25/24,50,140,95,17,98,60,2,Methyldopa,Medicaid,60652
+P000633,12/31/22,35,100,70,11,98,60,2,Insulin,Medicaid,60639
+P000634,5/28/22,19,120,85,9,98,60,1,Labetalol,Governmental,60633
+P000635,10/19/22,30,90,65,8,98,77,1,Iron Supplements,Medicaid,60621
+P000636,2/19/25,28,85,60,9,101,86,1,Prenatal Vitamins,Self-Insured,60644
+P000637,5/27/23,50,130,80,15,98,86,2,Prenatal Vitamins,Governmental,60622
+P000638,12/3/24,35,140,90,13,98,70,2,Metformin,Medicaid,60634
+P000639,9/16/24,29,90,70,11,100,80,2,Aspirin (low dose),Medicaid,60612
+P000640,6/22/24,19,120,60,7,98.4,70,0,Labetalol,Governmental,60651
+P000641,6/7/23,46,140,100,12,99,90,2,Methyldopa,Medicare,60645
+P000642,4/3/24,28,95,60,10,101,86,2,Methyldopa,Medicare,60621
+P000643,6/25/22,50,120,80,7,98,70,1,Methyldopa,None,60621
+P000644,7/24/23,39,110,70,7.9,98,80,1,Aspirin (low dose),Self-Insured,60641
+P000645,3/17/24,25,140,100,15,98.6,70,2,Calcium,Self-Insured,60613
+P000646,8/8/22,31,120,60,6.1,98,76,0,Magnesium Sulfate,Medicaid,60656
+P000647,10/12/23,23,120,85,8,98,70,0,Calcium,Self-Insured,60606
+P000648,1/12/23,29,130,70,8,98,78,1,Labetalol,Medicaid,60654
+P000649,11/30/24,17,90,60,9,102,86,1,Labetalol,Governmental,60615
+P000650,9/4/24,32,120,90,7,100,70,1,Heparin,Self-Insured,60611
+P000651,7/7/23,42,120,90,9,98,70,1,No Medication,Medicaid,60615
+P000652,7/15/22,23,90,60,6.7,98,76,0,Nifedipine,Medicaid,60621
+P000653,2/24/24,19,120,80,7,98,70,0,No Medication,Private,60602
+P000654,5/1/23,15,76,68,7,98,77,0,No Medication,None,60606
+P000655,12/30/23,34,120,75,8,98,70,0,Labetalol,None,60655
+P000656,2/16/24,48,120,80,11,98,88,2,Methyldopa,Governmental,60608
+P000657,7/29/23,15,120,80,6.6,99,70,0,No Medication,Governmental,60636
+P000658,7/8/23,27,140,90,15,98,90,2,Prenatal Vitamins,Self-Insured,60623
+P000659,2/9/25,25,140,100,12,99,80,2,Metformin,Medicaid,60639
+P000660,3/6/24,36,120,90,7,98,82,1,Folic Acid,Medicare,60647
+P000661,1/23/23,30,120,80,9,101,76,1,Progesterone,None,60643
+P000662,10/1/23,15,70,50,6,98,70,1,Insulin,None,60623
+P000663,6/5/24,40,120,95,7,98,70,2,Prenatal Vitamins,Self-Insured,60656
+P000664,3/12/25,15,90,60,6,98,80,0,Aspirin (low dose),Medicaid,60644
+P000665,6/10/24,21,90,50,6.9,98,60,0,Aspirin (low dose),Private,60622
+P000666,1/31/25,15,90,49,6,98,77,0,Methyldopa,Medicare,60642
+P000667,11/5/24,21,90,50,6.5,98,60,0,Aspirin (low dose),Private,60643
+P000668,12/14/24,15,90,49,6,98,77,0,Heparin,Governmental,60626
+P000669,1/31/25,15,90,49,6.7,99,77,0,Metformin,Self-Insured,60628
+P000670,11/16/22,15,90,49,6,99,77,0,Calcium,Medicare,60628
+P000671,5/28/23,10,100,50,6,99,70,1,Prenatal Vitamins,Medicare,60601
+P000672,8/2/23,15,100,49,6.8,99,77,0,Heparin,Medicare,60655
+P000673,2/27/25,15,100,49,6,99,77,0,Iron Supplements,Medicaid,60649
+P000674,6/11/23,12,100,50,6.4,98,70,1,Heparin,Medicaid,60604
+P000675,12/21/24,15,100,60,6,98,80,0,No Medication,Medicare,60649
+P000676,7/26/22,35,140,90,13,98,70,2,Iron Supplements,Private,60646
+P000677,4/23/25,29,90,70,8,100,80,2,No Medication,Medicare,60604
+P000678,2/26/24,30,140,85,7,98,70,2,Aspirin (low dose),Medicaid,60617
+P000679,7/23/23,23,140,80,7.01,98,70,2,Prenatal Vitamins,Medicare,60607
+P000680,3/26/24,35,85,60,11,102,86,2,Methyldopa,Medicaid,60642
+P000681,9/5/23,42,130,80,18,98,70,2,Insulin,Medicare,60644
+P000682,1/30/24,50,140,90,15,98,90,2,Progesterone,None,60617
+P000683,1/3/24,25,140,100,7.01,98,80,2,Calcium,None,60615
+P000684,6/29/23,40,140,100,18,98,90,2,Aspirin (low dose),Governmental,60632
+P000685,1/30/24,32,140,100,6.9,98,78,2,Folic Acid,Medicaid,60618
+P000686,8/23/23,14,90,65,7,101,70,2,Heparin,Governmental,60640
+P000687,5/26/23,37,120,90,11,98,88,2,Iron Supplements,Medicaid,60605
+P000688,10/14/23,17,110,75,12,101,76,2,Metformin,None,60644
+P000689,10/12/23,40,120,90,12,98,80,2,Magnesium Sulfate,Private,60628
+P000690,8/22/24,40,160,100,19,98,77,2,Methyldopa,Medicare,60605
+P000691,2/10/24,20,120,76,7.5,98,70,0,Methyldopa,Self-Insured,60652
+P000692,6/22/24,15,120,80,7.5,98,70,0,Labetalol,None,60646
+P000693,12/23/22,24,120,80,7.5,98,66,0,Folic Acid,Self-Insured,60614
+P000694,6/3/22,19,120,60,7,98.4,70,0,Nifedipine,Private,60640
+P000695,3/22/23,31,120,60,6.1,98,76,0,Labetalol,Governmental,60633
+P000696,4/20/25,23,120,85,8,98,70,0,Aspirin (low dose),None,60631
+P000697,3/3/24,23,90,60,6.7,98,76,0,No Medication,Private,60615
+P000698,3/31/24,19,120,80,7,98,70,0,Folic Acid,Medicare,60654
+P000699,5/28/23,15,76,68,7,98,77,0,Folic Acid,Self-Insured,60660
+P000700,11/26/24,34,120,75,8,98,70,0,Nifedipine,Self-Insured,60628
+P000701,9/29/24,15,120,80,6.6,99,70,0,Prenatal Vitamins,Medicaid,60645
+P000702,7/28/22,15,90,60,6,98,80,0,Levothyroxine,Medicare,60613
+P000703,7/19/24,21,90,50,6.9,98,60,0,Insulin,Self-Insured,60632
+P000704,9/23/24,15,100,49,7.6,98,77,0,Methyldopa,Self-Insured,60620
+P000705,1/12/24,12,100,50,6,98,70,1,Prenatal Vitamins,None,60629
+P000706,10/25/22,21,100,50,6.8,98,60,0,Levothyroxine,Governmental,60653
+P000707,2/10/25,23,130,70,7.01,98,78,1,Prenatal Vitamins,Self-Insured,60620
+P000708,10/5/23,32,120,90,6.9,98,70,1,Insulin,None,60632
+P000709,8/29/24,19,120,80,7,98,70,1,Aspirin (low dose),Governmental,60632
+P000710,7/20/23,20,120,75,7.01,100,70,1,Folic Acid,Medicaid,60602
+P000711,1/7/24,48,120,80,11,98,88,1,Magnesium Sulfate,Medicaid,60639
+P000712,7/14/24,30,120,80,6.9,101,76,1,Calcium,Governmental,60626
+P000713,3/5/23,18,120,80,6.9,102,76,1,No Medication,None,60612
+P000714,3/2/25,17,90,60,6.9,101,76,1,Progesterone,Private,60606
+P000715,3/5/25,17,90,63,6.9,101,70,1,Methyldopa,Private,60611
+P000716,1/8/24,25,120,90,6.7,101,80,1,Nifedipine,Private,60647
+P000717,4/29/24,17,120,80,6.7,102,76,1,Prenatal Vitamins,Medicare,60603
+P000718,2/16/25,13,90,65,7.9,101,80,1,Calcium,None,60601
+P000719,9/5/22,31,120,60,6.1,98,76,1,No Medication,Medicare,60621
+P000720,11/13/22,29,130,70,6.1,98,78,1,Insulin,None,60637
+P000721,7/14/24,19,120,80,7,98,70,1,Iron Supplements,Private,60622
+P000722,2/18/25,28,85,60,9,101,86,1,No Medication,Medicare,60647
+P000723,1/14/24,50,140,80,6.7,98,70,1,Heparin,Medicare,60610
+P000724,12/24/23,29,90,70,6.7,98,80,1,Methyldopa,Medicaid,60604
+P000725,4/6/23,31,120,60,6.1,98,76,1,Aspirin (low dose),None,60642
+P000726,2/23/23,29,130,70,6.7,98,78,1,Aspirin (low dose),Governmental,60602
+P000727,9/5/23,17,85,60,9,102,86,1,Heparin,None,60612
+P000728,2/20/24,19,120,80,7,98,70,1,Progesterone,None,60626
+P000729,7/13/22,20,110,60,7,100,70,1,Prenatal Vitamins,Medicaid,60636
+P000730,3/25/24,19,120,80,7,98,70,1,Prenatal Vitamins,Medicare,60613
+P000731,12/21/23,20,120,75,7.01,100,70,1,Heparin,Medicare,60609
+P000732,5/23/24,48,120,80,11,98,88,1,Heparin,Governmental,60636
+P000733,12/13/24,30,120,80,6.9,101,76,1,Heparin,Self-Insured,60617
+P000734,11/25/24,18,120,80,6.9,102,76,1,Prenatal Vitamins,Private,60619
+P000735,8/29/24,17,90,60,6.9,101,76,1,Insulin,Private,60630
+P000736,11/23/23,17,90,63,6.9,101,70,1,Aspirin (low dose),Self-Insured,60644
+P000737,7/23/24,25,120,90,6.7,101,80,1,Methyldopa,Medicaid,60623
+P000738,5/17/24,17,120,80,6.7,102,76,1,Prenatal Vitamins,Private,60642
+P000739,4/28/23,13,90,65,7.9,101,80,1,Metformin,Medicare,60616
+P000740,3/24/25,31,120,60,6.1,98,76,1,Labetalol,Governmental,60653
+P000741,6/21/23,29,130,70,6.1,98,78,1,Iron Supplements,Private,60619
+P000742,4/10/24,19,120,80,7,98,70,1,Calcium,Medicaid,60629
+P000743,2/23/25,28,85,60,9,101,86,1,Aspirin (low dose),Governmental,60630
+P000744,5/16/23,50,140,80,6.7,98,70,1,Progesterone,Medicaid,60617
+P000745,2/25/25,29,90,70,6.7,98,80,1,Aspirin (low dose),Medicaid,60637
+P000746,7/8/23,31,120,60,6.1,98,76,1,Metformin,Governmental,60603
+P000747,8/27/22,29,130,70,6.7,98,78,1,Prenatal Vitamins,None,60639
+P000748,1/12/23,17,85,60,9,102,86,1,Magnesium Sulfate,None,60601
+P000749,7/28/22,19,120,80,7,98,70,1,No Medication,None,60610
+P000750,3/19/24,20,110,60,7,100,70,1,Calcium,Medicaid,60617
+P000751,9/17/24,32,120,65,6,101,76,1,Labetalol,None,60614
+P000752,8/21/24,26,85,60,6,101,86,1,Heparin,Medicare,60619
+P000753,7/12/22,29,130,70,7.7,98,78,1,Folic Acid,Governmental,60652
+P000754,8/27/23,19,120,80,7,98,70,1,Prenatal Vitamins,Private,60604
+P000755,9/12/24,54,130,70,12,98,67,1,Heparin,Governmental,60657
+P000756,9/19/22,44,120,90,16,98,80,1,Aspirin (low dose),None,60639
+P000757,4/6/25,23,130,70,6.9,98,70,1,Heparin,Medicaid,60629
+P000758,11/28/24,22,85,60,6.9,98,76,1,Folic Acid,None,60636
+P000759,6/17/23,55,120,90,12,98,70,1,Levothyroxine,Medicaid,60616
+P000760,6/26/23,35,120,80,6.9,98,78,1,Iron Supplements,Medicaid,60626
+P000761,8/22/22,21,90,60,6.9,98,86,1,Insulin,Self-Insured,60628
+P000762,2/2/25,16,90,65,6.9,98,76,1,Prenatal Vitamins,None,60643
+P000763,10/15/22,33,115,65,7,98,70,1,Levothyroxine,Self-Insured,60647
+P000764,9/11/23,12,95,60,6.9,98,65,1,Levothyroxine,Medicaid,60612
+P000765,4/17/24,28,120,90,6.9,98,70,1,Heparin,Medicare,60647
+P000766,12/6/22,21,90,65,6.9,98,76,1,Prenatal Vitamins,Medicaid,60661
+P000767,11/11/23,18,90,60,6.9,98,70,1,Magnesium Sulfate,Medicaid,60643
+P000768,2/24/24,21,120,80,6.9,98,76,1,Folic Acid,Medicaid,60618
+P000769,1/9/23,16,100,70,6.9,98,80,1,Calcium,Medicare,60656
+P000770,2/6/24,19,120,75,6.9,98,66,1,Heparin,Governmental,60609
+P000771,3/12/23,23,100,85,6.9,98,66,1,Levothyroxine,Medicare,60630
+P000772,7/27/24,22,120,90,7.8,98,82,1,Labetalol,Governmental,60649
+P000773,1/30/23,60,120,85,15,98,60,1,Insulin,Self-Insured,60619
+P000774,6/2/24,13,90,65,7.8,101,80,1,Prenatal Vitamins,Governmental,60605
+P000775,11/30/23,23,120,90,7.8,98,60,1,Progesterone,None,60636
+P000776,2/9/24,28,115,60,7.8,101,86,1,Aspirin (low dose),Private,60651
+P000777,9/12/24,50,120,80,7.8,98,70,1,Prenatal Vitamins,Private,60624
+P000778,9/27/24,29,130,70,7.8,98,78,1,Nifedipine,None,60602
+P000779,6/9/22,19,120,80,7,98,70,1,Metformin,Medicaid,60608
+P000780,3/30/23,19,120,85,7.8,98,60,1,Calcium,Self-Insured,60618
+P000781,10/1/22,60,90,65,6.8,98,77,1,Levothyroxine,Governmental,60623
+P000782,4/14/24,55,120,90,6.8,98,66,1,Methyldopa,Self-Insured,60621
+P000783,4/21/23,25,120,80,6.8,98,66,1,Heparin,None,60628
+P000784,7/13/22,12,120,95,6.8,98,60,1,Nifedipine,Self-Insured,60632
+P000785,1/6/23,35,100,70,6.8,98,60,1,Magnesium Sulfate,Self-Insured,60654
+P000786,2/24/25,19,120,90,6.8,98,60,1,Methyldopa,None,60640
+P000787,9/26/24,60,90,65,6.8,98,77,1,Folic Acid,Self-Insured,60656
+P000788,8/21/22,50,130,80,16,102,76,1,Prenatal Vitamins,Private,60657
+P000789,4/26/25,27,120,90,6.8,102,68,1,Iron Supplements,None,60633
+P000790,9/23/22,55,100,70,6.8,101,80,1,Insulin,Governmental,60646
+P000791,5/22/22,12,120,90,6.8,98,80,1,No Medication,Medicare,60609
+P000792,5/28/23,60,120,80,6.8,98,77,1,No Medication,Medicare,60617
+P000793,12/7/22,25,120,100,6.8,98,60,1,Insulin,None,60621
+P000794,9/1/24,22,90,60,6.8,98,77,1,Magnesium Sulfate,Private,60624
+P000795,2/19/25,30,120,80,6.8,98,70,1,Aspirin (low dose),Medicaid,60636
+P000796,9/29/23,35,120,60,6.1,98,76,1,Heparin,Medicare,60612
+P000797,2/2/25,23,130,70,6.8,98,78,1,Progesterone,Medicare,60634
+P000798,10/23/23,43,130,80,18,98,70,1,Labetalol,None,60660
+P000799,9/19/24,19,120,80,7,98,70,1,Progesterone,Self-Insured,60630
+P000800,7/12/22,30,120,75,6.8,98,70,1,Iron Supplements,Governmental,60644
+P000801,3/17/23,32,120,80,6.8,98,70,1,Calcium,Medicare,60622
+P000802,1/2/24,23,130,70,6.8,98,78,1,Iron Supplements,Medicare,60655
+P000803,11/14/22,42,130,80,18,98,70,1,Magnesium Sulfate,Governmental,60613
+P000804,4/25/24,19,120,80,7,98,70,1,Methyldopa,Medicare,60615
+P000805,5/12/24,31,110,90,6.8,100,70,1,Aspirin (low dose),Governmental,60644
+P000806,7/3/22,19,120,80,7,98,70,1,Prenatal Vitamins,Medicare,60659
+P000807,7/6/23,25,120,80,7.9,98,66,1,Iron Supplements,Self-Insured,60638
+P000808,11/13/24,31,120,60,6.1,98,76,1,Methyldopa,Medicaid,60652
+P000809,2/25/24,23,120,90,7.9,98,70,1,Levothyroxine,Governmental,60632
+P000810,1/5/25,29,130,70,7.9,98,78,1,Nifedipine,Private,60640
+P000811,10/29/23,48,120,80,11,98,88,1,Heparin,Medicare,60645
+P000812,1/20/25,18,120,80,7.9,102,76,1,Nifedipine,Private,60624
+P000813,7/10/22,18,85,60,7.5,101,86,1,Calcium,Self-Insured,60637
+P000814,4/10/24,29,130,70,7.5,98,78,1,Methyldopa,Private,60647
+P000815,2/6/24,23,120,75,8,98,70,1,Prenatal Vitamins,Self-Insured,60610
+P000816,7/18/23,15,120,80,7.5,98,70,1,Progesterone,Medicaid,60645
+P000817,11/10/24,30,120,80,7.5,101,76,1,Labetalol,Self-Insured,60618
+P000818,7/7/23,40,120,95,11,98,80,1,Iron Supplements,Self-Insured,60616
+P000819,7/15/22,60,120,85,15,98,60,1,Progesterone,None,60606
+P000820,2/6/25,50,130,100,16,98,75,1,No Medication,Medicare,60637
+P000821,3/14/24,28,115,60,7.5,101,86,1,Folic Acid,Private,60659
+P000822,2/10/24,31,120,60,6.1,98,76,1,Aspirin (low dose),Self-Insured,60605
+P000823,3/19/25,23,120,80,7.5,98,70,1,Magnesium Sulfate,Private,60623
+P000824,9/26/22,29,130,70,7.5,98,78,1,Prenatal Vitamins,None,60611
+P000825,6/21/22,22,100,65,7.5,98,70,1,Magnesium Sulfate,Medicare,60620
+P000826,3/18/25,49,120,90,7.5,98,77,1,Magnesium Sulfate,Governmental,60646
+P000827,1/28/24,28,90,60,7.5,98,82,1,Iron Supplements,Self-Insured,60604
+P000828,9/6/24,12,90,60,7.5,102,66,1,Nifedipine,Governmental,60614
+P000829,7/30/23,20,100,90,7.5,98,88,1,Nifedipine,Self-Insured,60617
+P000830,10/8/23,23,100,85,7.5,98,66,1,Iron Supplements,Medicare,60633
+P000831,5/23/23,22,120,90,7.5,98,82,1,Iron Supplements,Governmental,60604
+P000832,2/15/24,21,120,80,7.5,98,77,1,Labetalol,None,60654
+P000833,1/27/24,60,120,80,7.5,98,75,1,No Medication,None,60625
+P000834,9/18/24,50,130,100,16,98,75,1,Aspirin (low dose),Medicare,60613
+P000835,4/25/23,17,90,65,7.5,103,67,1,Levothyroxine,Self-Insured,60622
+P000836,11/1/24,29,130,70,7.5,98,78,1,Progesterone,Governmental,60608
+P000837,6/30/23,19,120,80,7,98,70,1,Nifedipine,Self-Insured,60605
+P000838,5/30/24,19,120,85,9,98,60,1,Calcium,Medicaid,60611
+P000839,5/31/23,30,90,65,8,98,77,1,Levothyroxine,Medicare,60644
+P000840,12/17/24,28,85,60,9,101,86,1,Insulin,Self-Insured,60614
+P000841,3/3/25,50,120,80,7,98,70,1,Calcium,Self-Insured,60623
+P000842,12/6/24,39,110,70,7.9,98,80,1,Progesterone,Private,60603
+P000843,10/3/22,29,130,70,8,98,78,1,Calcium,Medicaid,60641
+P000844,11/14/24,17,90,60,9,102,86,1,Labetalol,Self-Insured,60602
+P000845,1/12/23,32,120,90,7,100,70,1,Methyldopa,Self-Insured,60653
+P000846,6/15/24,42,120,90,9,98,70,1,Magnesium Sulfate,Self-Insured,60613
+P000847,10/19/22,36,120,90,7,98,82,1,Levothyroxine,None,60657
+P000848,7/4/23,30,120,80,9,101,76,1,Calcium,Private,60640
+P000849,3/15/23,15,70,50,6,98,70,1,Magnesium Sulfate,Private,60631
+P000850,7/15/24,10,100,50,6,99,70,1,Iron Supplements,None,60633
+P000851,6/10/23,12,100,50,6.4,98,70,1,Metformin,Self-Insured,60603
+P000852,3/21/24,12,100,50,6,98,70,1,Iron Supplements,Medicare,60618
+P000853,8/22/24,23,130,70,7.01,98,78,1,Levothyroxine,Medicaid,60620
+P000854,6/11/23,32,120,90,6.9,98,70,1,Metformin,Governmental,60633
+P000855,3/8/23,19,120,80,7,98,70,1,No Medication,None,60642
+P000856,8/8/22,20,120,75,7.01,100,70,1,Folic Acid,Self-Insured,60654
+P000857,7/2/22,48,120,80,11,98,88,1,No Medication,Governmental,60618
+P000858,11/29/23,30,120,80,6.9,101,76,1,Progesterone,Private,60649
+P000859,10/8/22,18,120,80,6.9,102,76,1,Prenatal Vitamins,Private,60630
+P000860,1/13/23,17,90,60,6.9,101,76,1,Progesterone,None,60653
+P000861,8/24/22,17,90,63,6.9,101,70,1,No Medication,Self-Insured,60632
+P000862,7/10/22,25,120,90,6.7,101,80,1,Heparin,Private,60646
+P000863,6/5/23,17,120,80,6.7,102,76,1,Aspirin (low dose),Self-Insured,60629
+P000864,3/4/23,13,90,65,7.9,101,80,1,Insulin,Governmental,60603
+P000865,10/10/23,31,120,60,6.1,98,76,1,Metformin,None,60625
+P000866,10/7/23,29,130,70,6.1,98,78,1,Folic Acid,Self-Insured,60659
+P000867,11/1/24,19,120,80,7,98,70,1,Iron Supplements,Medicare,60638
+P000868,5/20/22,28,85,60,9,101,86,1,Calcium,Self-Insured,60653
+P000869,2/15/25,50,140,80,6.7,98,70,1,Iron Supplements,None,60644
+P000870,9/10/22,29,90,70,6.7,98,80,1,Heparin,Self-Insured,60637
+P000871,10/16/22,31,120,60,6.1,98,76,1,Progesterone,Self-Insured,60652
+P000872,5/7/23,29,130,70,6.7,98,78,1,Metformin,Governmental,60642
+P000873,12/4/23,17,85,60,9,102,86,1,Levothyroxine,Private,60641
+P000874,11/27/24,19,120,80,7,98,70,1,Methyldopa,Governmental,60638
+P000875,6/29/24,20,110,60,7,100,70,1,Levothyroxine,Governmental,60605
+P000876,6/28/23,32,120,65,6,101,76,1,Heparin,Self-Insured,60633
+P000877,9/14/24,27,120,70,6.8,98,77,0,Folic Acid,Medicare,60654
+P000878,7/4/24,27,120,70,6.8,98,77,0,Levothyroxine,Governmental,60620
+P000879,8/14/24,32,120,90,6.8,98,70,0,Aspirin (low dose),Medicare,60605
+P000880,7/9/23,23,99,60,6.8,98,76,0,Methyldopa,None,60619
+P000881,9/15/23,15,76,49,6.8,98,77,0,Prenatal Vitamins,Medicaid,60612
+P000882,6/8/24,15,120,80,6.8,98,70,0,Prenatal Vitamins,Private,60645
+P000883,4/25/23,29,100,70,6.8,98,80,0,Progesterone,None,60656
+P000884,10/24/22,35,120,60,6.1,98,76,0,Folic Acid,Self-Insured,60657
+P000885,3/16/24,32,120,90,6.8,98,70,0,Metformin,None,60655
+P000886,3/7/25,23,90,60,6.8,98,76,0,Prenatal Vitamins,Medicaid,60601
+P000887,12/19/22,15,76,49,6.8,98,77,0,Magnesium Sulfate,Medicaid,60631
+P000888,7/19/23,20,120,75,6.8,98,70,0,Progesterone,Governmental,60641
+P000889,5/20/23,48,120,80,11,98,88,0,Magnesium Sulfate,None,60625
+P000890,7/22/22,15,120,80,6.8,98,70,0,Insulin,Private,60636
+P000891,11/22/22,30,120,80,6.8,101,76,0,Aspirin (low dose),None,60622
+P000892,2/10/23,18,120,80,6.8,102,76,0,Nifedipine,Governmental,60608
+P000893,10/22/22,17,90,60,7.9,101,76,0,Folic Acid,Medicare,60617
+P000894,12/28/22,15,76,49,7.9,98,77,0,Methyldopa,Private,60629
+P000895,9/11/22,19,120,75,7.9,98,70,0,No Medication,Self-Insured,60632
+P000896,11/7/24,48,120,80,11,98,88,0,Aspirin (low dose),Governmental,60605
+P000897,2/4/25,15,120,80,7.9,98,70,0,Folic Acid,Governmental,60638
+P000898,1/4/23,22,100,65,7.9,98,80,0,Prenatal Vitamins,Medicare,60657
+P000899,3/13/25,35,100,70,7.9,98,60,0,Methyldopa,Governmental,60623
+P000900,9/15/24,19,120,85,7.9,98,60,0,Labetalol,Self-Insured,60660
+P000901,1/10/23,60,90,65,7.9,98,77,0,Magnesium Sulfate,Self-Insured,60613
+P000902,3/19/23,50,120,80,7.9,98,70,0,Metformin,None,60623
+P000903,2/28/23,17,85,60,7.9,102,86,0,Insulin,Medicare,60634
+P000904,8/15/24,32,120,90,7.9,98,70,0,Prenatal Vitamins,Medicaid,60654
+P000905,1/14/23,42,120,80,7.9,98,70,0,Calcium,Private,60614
+P000906,11/14/24,23,90,60,7.9,98,76,0,Levothyroxine,Medicaid,60647
+P000907,3/12/25,19,120,80,7,98,70,0,Methyldopa,Medicaid,60629
+P000908,6/27/23,15,76,49,7.9,98,77,0,No Medication,Self-Insured,60629
+P000909,10/4/22,16,120,75,7.9,98,70,0,Methyldopa,Governmental,60620
+P000910,9/18/22,15,120,80,7.9,98,70,0,Methyldopa,Medicaid,60649
+P000911,11/8/22,17,70,50,7.9,98,70,0,Folic Acid,Medicaid,60654
+P000912,9/15/24,17,90,60,7.5,101,76,0,Progesterone,None,60637
+P000913,10/8/24,17,90,63,7.5,101,70,0,Calcium,Private,60613
+P000914,12/25/23,25,120,90,7.5,101,80,0,Prenatal Vitamins,Private,60619
+P000915,6/24/24,17,120,80,7.5,102,76,0,Methyldopa,None,60602
+P000916,2/21/25,19,90,65,7.5,101,70,0,No Medication,Private,60624
+P000917,10/15/22,15,80,60,7.5,98,80,0,No Medication,Medicaid,60652
+P000918,11/28/23,60,90,65,7.5,98,77,0,Progesterone,Medicaid,60615
+P000919,6/24/23,50,120,80,7.5,98,70,0,Magnesium Sulfate,Medicare,60633
+P000920,10/31/22,19,90,70,7.5,98,80,0,Nifedipine,Private,60643
+P000921,2/25/23,31,120,60,6.1,98,76,0,Calcium,Medicaid,60616
+P000922,3/25/23,23,120,90,7.5,98,70,0,Progesterone,None,60622
+P000923,3/12/24,17,85,60,7.5,102,86,0,Levothyroxine,Governmental,60616
+P000924,8/30/23,32,120,90,7.5,98,70,0,Metformin,Medicaid,60604
+P000925,7/7/22,42,120,80,7.5,98,70,0,Calcium,Medicare,60624
+P000926,8/12/22,42,90,60,7.5,98,76,0,Folic Acid,Medicaid,60615
+P000927,9/14/22,19,120,80,7,98,70,0,Calcium,Medicare,60604
+P000928,9/1/22,15,78,49,7.5,98,77,0,Methyldopa,Self-Insured,60633
+P000929,6/26/23,16,70,50,7.5,100,70,0,Folic Acid,Medicare,60644
+P000930,12/22/22,16,100,70,7.5,98,80,0,Labetalol,Private,60602
+P000931,6/2/22,19,120,75,7.5,98,66,0,Iron Supplements,Governmental,60633
+P000932,5/21/24,22,100,65,7.5,98,70,0,Labetalol,Governmental,60606
+P000933,3/20/25,49,120,90,7.5,98,77,0,Insulin,Private,60626
+P000934,12/6/24,28,90,60,7.5,98,82,0,Aspirin (low dose),Self-Insured,60637
+P000935,9/16/22,12,90,60,7.5,102,66,0,No Medication,Governmental,60630
+P000936,8/25/24,20,100,90,7.5,98,88,0,Calcium,Private,60614
+P000937,1/23/23,23,100,85,7.5,98,66,0,Heparin,Medicare,60628
+P000938,1/27/24,22,120,90,7.5,98,82,0,Levothyroxine,Private,60608
+P000939,6/8/23,21,120,80,7.5,98,77,0,Iron Supplements,Governmental,60602
+P000940,2/16/23,21,75,50,7.5,98,60,0,Heparin,Medicare,60632
+P000941,7/1/24,12,90,60,7.5,102,60,0,Aspirin (low dose),Self-Insured,60608
+P000942,9/29/22,60,120,80,7.5,98,75,0,Aspirin (low dose),Private,60655
+P000943,9/4/23,55,100,65,7.5,98,66,0,Metformin,Self-Insured,60616
+P000944,6/24/22,45,120,95,7.5,98,66,0,Methyldopa,Medicaid,60603
+P000945,6/12/24,35,100,70,7.5,98,66,0,Prenatal Vitamins,Private,60652
+P000946,8/10/24,22,120,85,7.5,98,88,0,Nifedipine,None,60631
+P000947,11/30/24,13,90,65,7.5,101,80,0,No Medication,Self-Insured,60607
+P000948,6/24/23,23,120,90,7.5,98,60,0,Methyldopa,Private,60622
+P000949,2/25/25,17,90,65,7.5,103,67,0,Calcium,Governmental,60653
+P000950,11/19/24,59,120,80,7.5,98,70,0,Heparin,Private,60614
+P000951,8/31/22,23,120,80,7.5,98,70,0,Progesterone,Governmental,60616
+P000952,4/27/25,17,85,60,7.5,102,86,0,Levothyroxine,Medicare,60655
+P000953,7/31/24,32,120,90,7.5,98,70,0,Metformin,Private,60621
+P000954,10/6/22,42,120,80,7.5,98,70,0,Metformin,None,60622
+P000955,11/2/22,25,140,100,7.01,98,80,2,Iron Supplements,Self-Insured,60609
+P000956,7/17/24,40,140,100,18,98,90,2,Magnesium Sulfate,Governmental,60656
+P000957,3/18/23,32,140,100,6.9,98,78,2,Magnesium Sulfate,Medicaid,60615
+P000958,8/7/22,14,90,65,7,101,70,2,Labetalol,Governmental,60652
+P000959,8/3/22,37,120,90,11,98,88,2,Metformin,Governmental,60614
+P000960,12/31/22,17,110,75,12,101,76,2,Metformin,Medicare,60660
+P000961,11/24/24,40,120,90,12,98,80,2,Insulin,Governmental,60609
+P000962,2/29/24,40,160,100,19,98,77,2,Progesterone,None,60636
+P000963,3/27/23,32,140,90,18,98,88,2,Folic Acid,Self-Insured,60645
+P000964,7/10/23,12,90,60,7.9,102,66,2,No Medication,Self-Insured,60611
+P000965,9/5/23,35,140,100,8,98,66,2,Methyldopa,None,60611
+P000966,9/27/22,54,140,100,15,98,66,2,Magnesium Sulfate,Medicare,60615
+P000967,8/21/24,40,120,95,11,98,80,2,Methyldopa,Medicaid,60628
+P000968,2/11/25,60,120,85,15,98,60,2,Insulin,None,60625
+P000969,7/18/24,55,140,95,19,98,77,2,No Medication,Medicare,60649
+P000970,3/14/25,50,130,100,16,98,75,2,Folic Acid,Self-Insured,60620
+P000971,8/19/22,17,90,65,6.1,103,67,2,Iron Supplements,Private,60654
+P000972,10/19/22,28,83,60,8,101,86,2,No Medication,Medicaid,60621
+P000973,12/2/22,50,120,80,15,98,70,2,Progesterone,Medicaid,60643
+P000974,7/8/22,17,85,60,9,102,86,2,Levothyroxine,Self-Insured,60629
+P000975,8/3/22,33,120,75,10,98,70,2,Progesterone,Medicaid,60631
+P000976,1/10/25,48,120,80,11,98,88,2,Insulin,None,60657
+P000977,10/26/24,50,140,95,17,98,60,2,Heparin,None,60613
+P000978,11/18/22,30,140,100,15,98,70,2,Folic Acid,Self-Insured,60615
+P000979,12/3/22,29,120,75,7.2,100,70,2,Progesterone,None,60638
+P000980,3/18/23,48,120,80,11,98,88,2,Prenatal Vitamins,Private,60641
+P000981,6/3/23,50,140,90,15,98,77,2,Aspirin (low dose),Medicaid,60608
+P000982,5/2/23,25,140,100,7.2,98,80,2,Calcium,Medicare,60630
+P000983,2/8/23,55,140,80,7.2,101,76,2,Progesterone,Private,60606
+P000984,8/26/22,40,140,100,18,98,77,2,Insulin,Private,60621
+P000985,9/1/23,28,120,80,9,102,76,2,No Medication,Private,60647
+P000986,7/1/23,32,140,100,8,98,70,2,Prenatal Vitamins,Self-Insured,60634
+P000987,9/3/22,17,90,60,11,101,78,2,Progesterone,None,60606
+P000988,6/27/22,17,90,63,8,101,70,2,Magnesium Sulfate,Governmental,60639
+P000989,1/20/24,25,120,90,12,101,80,2,Progesterone,Self-Insured,60640
+P000990,1/9/24,17,120,80,7,102,76,2,Labetalol,Private,60643
+P000991,9/26/24,19,90,65,11,101,70,2,Folic Acid,Governmental,60605
+P000992,3/15/24,37,120,90,11,98,88,2,Nifedipine,Self-Insured,60646
+P000993,7/6/24,17,110,75,13,101,76,2,Methyldopa,None,60630
+P000994,11/6/22,25,120,90,15,98,80,2,Insulin,Medicare,60607
+P000995,7/22/23,40,160,100,19,98,77,2,Insulin,Private,60659
+P000996,6/9/22,32,140,90,18,98,88,2,Insulin,Private,60629
+P000997,2/10/25,12,90,60,8,102,66,2,Levothyroxine,Self-Insured,60646
+P000998,10/8/24,35,140,100,9,98,66,2,Nifedipine,Self-Insured,60605
+P000999,6/28/24,54,140,100,15,98,66,2,Calcium,None,60616
+P001000,2/26/25,40,120,95,11,98,80,2,Methyldopa,Self-Insured,60622
+P001001,1/20/25,12,90,60,11,102,60,2,Folic Acid,Medicare,60611
+P001002,8/11/22,60,120,85,15,98,60,2,Progesterone,Self-Insured,60644
+P001003,6/12/22,55,140,95,19,98,77,2,Calcium,Medicaid,60646
+P001004,6/27/22,50,130,100,16,98,76,2,Levothyroxine,Governmental,60632
+P001005,11/4/23,13,90,65,9,101,80,2,Prenatal Vitamins,Medicare,60643
+P001006,10/27/22,17,90,65,7.7,103,67,2,Aspirin (low dose),None,60632
+P001007,11/21/23,17,85,60,6.3,102,86,2,No Medication,Medicare,60628
+P001008,2/8/25,40,120,75,7.7,98,70,2,Metformin,Medicaid,60618
+P001009,9/26/22,48,120,80,11,98,88,2,Iron Supplements,Self-Insured,60608
+P001010,12/5/23,22,120,60,15,98,80,2,Nifedipine,Medicaid,60622
+P001011,3/21/24,55,120,90,18,98,60,2,No Medication,Private,60647
+P001012,5/10/25,35,85,60,19,98,86,2,Iron Supplements,None,60630
+P001013,10/21/23,43,120,90,18,98,70,2,Levothyroxine,None,60610
+P001014,3/18/24,32,120,65,6,101,76,1,Metformin,None,60630
